@@ -1,0 +1,446 @@
+=== [gen9nationaldexag] roxanne split/youngster calvin ===
+
+Zigzagoon-Galar @ Macho Brace  
+Ability: Gluttony  
+Level: 11  
+Tera Type: Dark  
+- Assurance  
+- Swift  
+
+Spearow @ Scope Lens  
+Ability: Sniper  
+Level: 11  
+Tera Type: Normal  
+- Peck  
+- Tackle  
+- Leer  
+- Focus Energy  
+
+
+=== [gen9nationaldexag] roxanne split/bug catcher rick ===
+
+Larvesta @ Oran Berry  
+Ability: Swarm  
+Level: 11  
+Tera Type: Bug  
+- Flame Charge  
+- Bug Bite  
+- Wing Attack  
+
+Venonat @ Bright Powder  
+Ability: Compound Eyes  
+Level: 12  
+Tera Type: Bug  
+- Bug Bite  
+- Poison Fang  
+- Sleep Powder  
+
+Cutiefly  
+Ability: Shield Dust  
+Level: 12  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Magical Leaf  
+- Silver Wind  
+- Draining Kiss  
+- Charm  
+
+
+=== [gen9nationaldexag] roxanne split/youngster allen ===
+
+Magnemite @ Eviolite  
+Ability: Sturdy  
+Level: 12  
+Tera Type: Electric  
+IVs: 0 Atk / 30 Def / 30 SpA  
+- Sonic Boom  
+- Hidden Power
+- Electroweb  
+
+Pawniard @ Chople Berry  
+Ability: Defiant  
+Level: 13  
+Tera Type: Dark  
+- Aerial Ace  
+- Metal Claw  
+- Payback  
+
+Frillish  
+Ability: Water Absorb  
+Level: 13  
+Tera Type: Water  
+IVs: 0 Atk  
+- Bubble  
+- Icy Wind  
+- Confuse Ray  
+
+
+=== [gen9nationaldexag] roxanne split/lass tiana ===
+
+Stufful @ Eviolite  
+Ability: Fluffy  
+Level: 14  
+Tera Type: Normal  
+- Brutal Swing  
+- Aerial Ace  
+- Force Palm  
+- Bind  
+
+
+=== [gen9nationaldexag] roxanne split/lady cindy ===
+
+Clefairy @ Choice Specs  
+Ability: Cute Charm  
+Level: 13  
+Tera Type: Fairy  
+- Metronome  
+
+Hattrem @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 13  
+Tera Type: Psychic  
+- Metronome  
+
+Teddiursa @ Choice Band  
+Ability: Quick Feet  
+Level: 14  
+Tera Type: Normal  
+- Metronome  
+
+
+=== [gen9nationaldexag] roxanne split/bug catcher lyle ===
+
+Spinarak @ Occa Berry  
+Ability: Sniper  
+Level: 14  
+Tera Type: Bug  
+- Sticky Web  
+- Twineedle  
+- Pursuit  
+- Venoshock  
+
+Dottler @ Occa Berry  
+Ability: Swarm  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Confusion  
+- Struggle Bug  
+- Round  
+
+Swadloon @ Occa Berry  
+Ability: Overcoat  
+Level: 14  
+Tera Type: Bug  
+- Trailblaze  
+- Bug Bite  
+- Cut  
+
+Wimpod @ Oran Berry  
+Ability: Wimp Out  
+Level: 15  
+Tera Type: Bug  
+- Skitter Smack  
+- Aqua Jet  
+- Metal Claw  
+
+
+=== [gen9nationaldexag] roxanne split/aqua grunt petalburg woods ===
+
+Gossifleur  
+Ability: Cotton Down  
+Level: 15  
+Tera Type: Grass  
+IVs: 0 Atk  
+- Magical Leaf  
+- Round  
+- Leech Seed  
+
+Litwick  
+Ability: Flame Body  
+Level: 16  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Ember  
+- Night Shade  
+- Will-O-Wisp  
+
+Dewpider  
+Ability: Water Bubble  
+Level: 16  
+Tera Type: Water  
+- Bubble  
+- Bug Bite  
+- Swagger  
+
+
+=== [gen9nationaldexag] roxanne split/bug catcher james ===
+
+Dustox @ Silver Powder  
+Ability: Compound Eyes  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Silver Wind  
+- Venoshock  
+- Sleep Powder  
+- Hidden Power
+
+Beautifly @ Sharp Beak  
+Ability: Swarm  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Silver Wind  
+- Air Cutter  
+- Quiver Dance  
+- Hidden Power
+
+
+=== [gen9nationaldexag] roxanne split/rich boy winston ===
+
+Grimer @ Black Sludge  
+Ability: Stench  
+Level: 15  
+Tera Type: Poison  
+- Poison Fang  
+- Shadow Sneak  
+- Payback  
+
+Pikachu-Hoenn @ Light Ball  
+Ability: Static  
+Level: 14  
+Tera Type: Electric  
+- Spark  
+- Pay Day  
+- Thunder Wave  
+
+
+=== [gen9nationaldexag] roxanne split/lass haley ===
+
+Mantyke @ Wacan Berry  
+Ability: Water Absorb  
+Level: 15  
+Tera Type: Water  
+IVs: 0 Atk  
+- Bubble Beam  
+- Hidden Power  
+- Toxic  
+- Icy Wind  
+
+Aipom @ King's Rock  
+Ability: Skill Link  
+Level: 15  
+Tera Type: Normal  
+- Double Slap  
+- Hone Claws  
+- Triple Kick  
+
+Munchlax @ Iapapa Berry  
+Ability: Gluttony  
+Level: 16  
+Tera Type: Normal  
+- Recycle  
+- Curse  
+- Chip Away  
+
+
+=== [gen9nationaldexag] roxanne split/twins gia and mia ===
+
+Klink @ Eviolite  
+Ability: Minus  
+Level: 15  
+Tera Type: Steel  
+IVs: 0 Atk  
+- Charge Beam  
+- Hidden Power
+- Screech  
+
+Flaaffy (M) @ Magnet  
+Ability: Plus  
+Level: 15  
+Tera Type: Electric  
+IVs: 0 Atk  
+- Thunder Shock  
+- Echoed Voice  
+- Attract  
+
+
+=== [gen9nationaldexag] roxanne split/youngster johnson and hiker clark ===
+
+Litten @ Assault Vest  
+Ability: Intimidate  
+Level: 15  
+Tera Type: Fire  
+- Fake Out  
+- U-turn  
+- Fire Fang  
+- Thunder Fang  
+
+Taillow @ Flame Orb  
+Ability: Guts  
+Level: 16  
+Tera Type: Normal  
+- Tailwind  
+- Facade  
+- Aerial Ace  
+- Protect  
+
+Binacle @ Rindo Berry  
+Ability: Tough Claws  
+Level: 16  
+Tera Type: Rock  
+- Aerial Ace  
+- Clamp  
+- Rock Tomb  
+- Power-Up Punch  
+
+Phantump @ Sitrus Berry  
+Ability: Harvest  
+Level: 16  
+Tera Type: Ghost  
+- Night Shade  
+- Trailblaze  
+- Protect  
+
+
+=== [gen9nationaldexag] roxanne split/hiker devan ===
+
+Geodude-Alola @ Quick Claw  
+Ability: Sturdy  
+Level: 16  
+Tera Type: Rock  
+- Explosion  
+- Rock Tomb  
+
+Lileep @ Leftovers  
+Ability: Storm Drain  
+Level: 16  
+Tera Type: Rock  
+IVs: 0 Atk  
+- Mega Drain  
+- Ancient Power  
+- Hidden Power
+
+
+=== [gen9nationaldexag] roxanne split/youngster josh ===
+
+Onix @ Weakness Policy  
+Ability: Sturdy  
+Level: 15  
+Tera Type: Rock  
+- Rock Tomb  
+- Bulldoze  
+- Breaking Swipe  
+
+Anorith @ Berry Juice  
+Ability: Battle Armor  
+Level: 16  
+Tera Type: Rock  
+- Bug Bite  
+- Rock Tomb  
+- Aqua Jet  
+
+
+=== [gen9nationaldexag] roxanne split/youngster tommy ===
+
+Nosepass @ Lum Berry  
+Ability: Sturdy  
+Level: 16  
+Tera Type: Rock  
+- Stealth Rock  
+- Bulldoze  
+- Rock Tomb  
+
+Rhyhorn @ Sitrus Berry  
+Ability: Lightning Rod  
+Level: 16  
+Tera Type: Ground  
+- Bulldoze  
+- Rock Tomb  
+- Thunder Fang  
+- Ice Fang  
+
+Omanyte @ Rindo Berry  
+Ability: Shell Armor  
+Level: 17  
+Tera Type: Rock  
+IVs: 0 Atk  
+- Ancient Power  
+- Icy Wind  
+- Water Pulse  
+
+
+=== [gen9nationaldexag] roxanne split/hiker marc ===
+
+Relicanth @ Assault Vest  
+Ability: Swift Swim  
+Level: 17  
+Tera Type: Water  
+- Rock Tomb  
+- Bulldoze  
+- Poison Tail  
+- Flip Turn  
+
+
+=== [gen9nationaldexag] roxanne split/roxanne; wip ===
+
+Boldore @ Eviolite  
+Ability: Sand Stream  
+Level: 17  
+Tera Type: Rock  
+Careful Nature  
+- Rock Tomb  
+- Bulldoze  
+- Heavy Slam  
+
+Amaura @ Chople Berry  
+Ability: Refrigerate  
+Level: 17  
+Tera Type: Rock  
+Modest Nature  
+IVs: 0 Atk / 30 Spe  
+- Echoed Voice  
+- Ancient Power  
+- Hidden Power
+- Mud Shot  
+
+Lycanroc @ Focus Sash  
+Ability: Sand Rush  
+Level: 17  
+Tera Type: Rock  
+Adamant Nature  
+- Accelerock  
+- Thunder Fang  
+- Stomping Tantrum  
+- Fire Fang  
+
+Growlithe-Hisui @ Assault Vest  
+Ability: Intimidate  
+Level: 17  
+Tera Type: Fire  
+Impish Nature  
+- Bite  
+- Thunder Fang  
+- Psychic Fangs  
+- Rock Blast  
+
+Cranidos @ Life Orb  
+Ability: Sheer Force  
+Level: 17  
+Tera Type: Rock  
+Jolly Nature  
+- Headbutt  
+- Rock Tomb  
+- Fire Punch  
+- Thunder Punch  
+
+Kabutops @ Berry Juice  
+Ability: Battle Armor  
+Level: 17  
+Tera Type: Rock  
+Naive Nature  
+- Aqua Jet  
+- Aerial Ace  
+- Rock Tomb  
+- Swords Dance  
