@@ -4,7 +4,6 @@ get rid of knock off from almost all learnsets
 change existing items and add new ones in new areas
 add mega stones and tms and new held items
 remove weather moves from learnsets
-add more tanks pre gym 1
 add other normal trainers
 make gym trainers required
 remove hidden itemss
@@ -14,6 +13,6 @@ mkae pokemon not spawn with items
 up friendship
 check early mons relearnset (combusken learns flamethrower)
 fix grass knot guy
-15 cap tunnel grunt
 fix rustboro fishing thing
 fix onix screen glitch
+purge wally

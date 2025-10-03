@@ -231,29 +231,31 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Gossifleur
-Ability: Cotton Down
-Level: 16
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Magical Leaf
-- Round
-- Leech Seed
+Gossifleur  
+Ability: Cotton Down  
+Level: 15  
+Tera Type: Grass  
+IVs: 0 Atk  
+- Magical Leaf  
+- Round  
+- Leech Seed  
 
-Litwick
-Ability: Flame Body
-Level: 16
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ember
-- Night Shade
-- Will O Wisp
+Litwick  
+Ability: Flame Body  
+Level: 16  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Ember  
+- Night Shade  
+- Will-O-Wisp  
 
-Dewpider
-Ability: Water Bubble
-Level: 17
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bubble
-- Bug Bite
-- Swagger
+Dewpider  
+Ability: Water Bubble  
+Level: 16  
+Tera Type: Water  
+- Bubble  
+- Bug Bite  
+- Swagger  
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -2143,9 +2145,23 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Clefairy @ Choice Specs  
+Ability: Cute Charm  
+Level: 13  
+Tera Type: Fairy  
+- Metronome  
+
+Hattrem @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 13  
+Tera Type: Psychic  
+- Metronome  
+
+Teddiursa @ Choice Band  
+Ability: Quick Feet  
+Level: 14  
+Tera Type: Normal  
+- Metronome  
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -2547,9 +2563,21 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Grimer @ Black Sludge  
+Ability: Stench  
+Level: 15  
+Tera Type: Poison  
+- Poison Fang  
+- Shadow Sneak  
+- Payback  
+
+Pikachu-Hoenn @ Light Ball  
+Ability: Static  
+Level: 14  
+Tera Type: Electric  
+- Spark  
+- Pay Day  
+- Thunder Wave  
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -4817,32 +4845,29 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Hippopotas @ Eviolite  
+Boldore @ Eviolite  
 Ability: Sand Stream  
-Level: 16  
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Tera Type: Ground  
+Level: 17  
+Tera Type: Rock  
 Careful Nature  
-- Bulldoze  
 - Rock Tomb  
-- Stockpile  
-- Rock Smash  
+- Bulldoze  
+- Heavy Slam  
 
 Amaura @ Chople Berry  
 Ability: Refrigerate  
-Level: 16  
+Level: 17  
 Tera Type: Rock  
 Modest Nature  
-IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 30 Spe
+IVs: 0 Atk / 30 Spe  
 - Echoed Voice  
 - Ancient Power  
 - Hidden Power
 - Mud Shot  
 
-Lycanroc @ Chople Berry  
+Lycanroc @ Focus Sash  
 Ability: Sand Rush  
-Level: 16  
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Level: 17  
 Tera Type: Rock  
 Adamant Nature  
 - Accelerock  
@@ -4853,7 +4878,6 @@ Adamant Nature
 Growlithe-Hisui @ Assault Vest  
 Ability: Intimidate  
 Level: 17  
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Tera Type: Fire  
 Impish Nature  
 - Bite  
@@ -4864,7 +4888,6 @@ Impish Nature
 Cranidos @ Life Orb  
 Ability: Sheer Force  
 Level: 17  
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Tera Type: Rock  
 Jolly Nature  
 - Headbutt  
@@ -4873,9 +4896,8 @@ Jolly Nature
 - Thunder Punch  
 
 Kabutops @ Berry Juice  
-Ability: Bulletproof  
+Ability: Battle Armor  
 Level: 17  
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Tera Type: Rock  
 Naive Nature  
 - Aqua Jet  
@@ -6012,14 +6034,14 @@ AI: Basic Trainer
 
 Zigzagoon-Galar @ Macho Brace  
 Ability: Gluttony  
-Level: 9  
+Level: 11  
 Tera Type: Dark  
 - Assurance  
 - Swift  
 
 Spearow @ Scope Lens  
 Ability: Sniper  
-Level: 10  
+Level: 11  
 Tera Type: Normal  
 - Peck  
 - Tackle  
@@ -6052,12 +6074,13 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Geodude-Alola  
-Ability: Galvanize  
-Level: 16  
+Onix @ Weakness Policy  
+Ability: Sturdy  
+Level: 15  
 Tera Type: Rock  
-- Tackle  
 - Rock Tomb  
+- Bulldoze  
+- Breaking Swipe  
 
 Anorith @ Berry Juice  
 Ability: Battle Armor  
@@ -6076,32 +6099,31 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Rockruff @ Quick Claw  
+Nosepass @ Custap Berry
 Ability: Sturdy  
 Level: 16  
 Tera Type: Rock  
+- Stealth Rock  
 - Bulldoze  
 - Rock Tomb  
-- Covet  
-- Bite  
 
-Rhyhorn @ Oran Berry  
+Rhyhorn @ Sitrus Berry  
 Ability: Lightning Rod  
 Level: 16  
 Tera Type: Ground  
 - Bulldoze  
 - Rock Tomb  
 - Thunder Fang  
+- Ice Fang  
 
 Omanyte @ Rindo Berry  
 Ability: Shell Armor  
 Level: 17  
 Tera Type: Rock  
 IVs: 0 Atk  
-- Shell Smash  
 - Ancient Power  
-- Water Pulse  
 - Icy Wind  
+- Water Pulse  
 
 === TRAINER_JOEY ===
 Name: JOEY
@@ -6317,13 +6339,31 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magnemite @ Eviolite  
+Ability: Sturdy  
+Level: 12  
+Tera Type: Electric  
+IVs: 0 Atk / 30 Def / 30 SpA  
+- Sonic Boom  
+- Hidden Power
+- Electroweb  
 
-Taillow
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pawniard @ Chople Berry  
+Ability: Defiant  
+Level: 13  
+Tera Type: Dark  
+- Aerial Ace  
+- Metal Claw  
+- Payback  
+
+Frillish  
+Ability: Water Absorb  
+Level: 13  
+Tera Type: Water  
+IVs: 0 Atk  
+- Bubble  
+- Icy Wind  
+- Confuse Ray  
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -8908,18 +8948,18 @@ Music: Twins
 Double Battle: Yes
 AI: Basic Trainer
 
-Klink  
+Klink @ Eviolite  
 Ability: Minus  
-Level: 13  
+Level: 15  
 Tera Type: Steel  
 IVs: 0 Atk  
 - Charge Beam  
 - Hidden Power
 - Screech  
 
-Flaaffy
+Flaaffy (M) @ Magnet  
 Ability: Plus  
-Level: 13  
+Level: 15  
 Tera Type: Electric  
 IVs: 0 Atk  
 - Thunder Shock  
@@ -10678,7 +10718,7 @@ Level: 17
 Tera Type: Water  
 - Rock Tomb  
 - Bulldoze  
-- Rock Smash  
+- Poison Tail  
 - Flip Turn  
 
 === TRAINER_BRENDEN ===
@@ -11166,13 +11206,14 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Shroomish
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Stufful @ Eviolite  
+Ability: Fluffy  
+Level: 14  
+Tera Type: Normal  
+- Brutal Swing  
+- Aerial Ace  
+- Force Palm  
+- Bind  
 
 === TRAINER_HALEY_1 ===
 Name: HALEY
@@ -11183,13 +11224,31 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Mantyke @ Wacan Berry  
+Ability: Water Absorb  
+Level: 15  
+Tera Type: Water  
+IVs: 0 Atk  
+- Bubble Beam  
+- Hidden Power  
+- Toxic  
+- Icy Wind  
 
-Shroomish
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Aipom @ King's Rock  
+Ability: Skill Link  
+Level: 15  
+Tera Type: Normal  
+- Double Slap  
+- Hone Claws  
+- Triple Kick  
+
+Munchlax @ Iapapa Berry  
+Ability: Gluttony  
+Level: 16  
+Tera Type: Normal  
+- Recycle  
+- Curse  
+- Chip Away  
 
 === TRAINER_JANICE ===
 Name: JANICE
@@ -11370,13 +11429,31 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Larvesta @ Oran Berry  
+Ability: Swarm  
+Level: 11  
+Tera Type: Bug  
+- Flame Charge  
+- Bug Bite  
+- Wing Attack  
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Venonat @ Bright Powder  
+Ability: Compound Eyes  
+Level: 12  
+Tera Type: Bug  
+- Bug Bite  
+- Poison Fang  
+- Sleep Powder  
+
+Cutiefly  
+Ability: Shield Dust  
+Level: 12  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Magical Leaf  
+- Silver Wind  
+- Draining Kiss  
+- Charm  
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -11387,21 +11464,40 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Spinarak @ Occa Berry  
+Ability: Sniper  
+Level: 14  
+Tera Type: Bug  
+- Sticky Web  
+- Twineedle  
+- Pursuit  
+- Venoshock  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dottler @ Occa Berry  
+Ability: Swarm  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Confusion  
+- Struggle Bug  
+- Round  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Swadloon @ Occa Berry  
+Ability: Overcoat  
+Level: 14  
+Tera Type: Bug  
+- Trailblaze  
+- Bug Bite  
+- Cut  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wimpod @ Oran Berry  
+Ability: Wimp Out  
+Level: 15  
+Tera Type: Bug  
+- Skitter Smack  
+- Aqua Jet  
+- Metal Claw  
+
 
 === TRAINER_JOSE ===
 Name: JOSE
@@ -11476,13 +11572,25 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dustox @ Silver Powder  
+Ability: Compound Eyes  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Silver Wind  
+- Venoshock  
+- Sleep Powder  
+- Hidden Power
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beautifly @ Sharp Beak  
+Ability: Swarm  
+Level: 14  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Silver Wind  
+- Air Cutter  
+- Quiver Dance  
+- Hidden Power
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -11662,9 +11770,22 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Litten @ Assault Vest  
+Ability: Intimidate  
+Level: 15  
+Tera Type: Fire  
+- Fake Out  
+- U-turn  
+- Fire Fang  
+- Thunder Fang  
+
+Phantump @ Sitrus Berry  
+Ability: Harvest  
+Level: 16  
+Tera Type: Ghost  
+- Night Shade  
+- Trailblaze  
+- Protect  
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -13972,23 +14093,21 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Geodude @ Quick Claw  
-Ability: Sturdy  
-Level: 13  
-Tera Type: Rock  
-- Explosion  
-- Tackle  
-- Defense Curl  
-- Mud Sport  
-
 Geodude-Alola @ Quick Claw  
 Ability: Sturdy  
-Level: 13  
+Level: 16  
 Tera Type: Rock  
 - Explosion  
-- Tackle  
-- Defense Curl  
-- Mud Sport  
+- Rock Tomb  
+
+Lileep @ Leftovers  
+Ability: Storm Drain  
+Level: 16  
+Tera Type: Rock  
+IVs: 0 Atk  
+- Mega Drain  
+- Ancient Power  
+- Hidden Power
 
 === TRAINER_JOHNSON ===
 Name: JOHNSON
@@ -13999,13 +14118,22 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Shroomish
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow @ Flame Orb  
+Ability: Guts  
+Level: 16  
+Tera Type: Normal  
+- Tailwind  
+- Facade  
+- Aerial Ace  
+- Protect  
 
-Lotad
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Phantump @ Sitrus Berry  
+Ability: Harvest  
+Level: 16  
+Tera Type: Ghost  
+- Night Shade  
+- Trailblaze  
+- Protect  
 
 === TRAINER_MELINA ===
 Name: MELINA

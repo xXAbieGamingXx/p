@@ -11,6 +11,10 @@ Route116_OnTransition:
 	call_if_eq VAR_ABNORMAL_WEATHER_LOCATION, ABNORMAL_WEATHER_ROUTE_116_SOUTH, AbnormalWeather_StartGroudonWeather
 	end
 
+Route116_EventScript_DoubleBattle_Sign::
+	msgbox Route116_DoubleBattle_Sign_Text, MSGBOX_SIGN
+	end
+
 Route116_EventScript_SetWandasBoyfriendPos::
 	setobjectxyperm LOCALID_ROUTE116_WANDAS_BF, 38, 10
 	return
@@ -468,3 +472,5 @@ Route116_Text_TrainerTipsBagHasPockets:
 	.string "No TRAINER can afford to be without\n"
 	.string "a BAG of their own.$"
 
+Route116_DoubleBattle_Sign_Text:
+	.string "We Like Double Battles!"
