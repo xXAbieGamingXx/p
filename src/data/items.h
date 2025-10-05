@@ -11983,9 +11983,11 @@ const struct Item gItemsInfo[] =
 
     [ITEM_TM_GRASS_KNOT] =
     {
-        .name = ITEM_NAME("TM81"),
+        .name = ITEM_NAME("TM33"),
         .price = 3000,
-        .description = COMPOUND_STRING("grass knot"), // Todo
+        .description = COMPOUND_STRING("An attack that does\n"
+            "more damage to"
+            "\nheavier foes."), // Todo
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,

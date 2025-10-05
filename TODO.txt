@@ -16,3 +16,17 @@ fix grass knot guy
 fix rustboro fishing thing
 fix onix screen glitch
 purge wally
+remove all battle items that aren t on rich people
+change metronome switch out ai (non damaging move counts as not being able to damage so switches out)
+block off roxannes gym until done with trainers
+fix doublew battle sign
+fix hiker and youngster with phantump
+fix shadows in rustboro gym
+fix rustboro gym collision
+force player to get to the tunnel before fighting roxanne?
+perma flash
+skip the devon corp bs
+slateport before brawly
+make fishing more likely
+add chekc ivs
+change treainer school dialogue

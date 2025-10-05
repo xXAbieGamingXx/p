@@ -2145,22 +2145,16 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Clefairy @ Choice Specs  
+Clefairy @ Assault Vest
 Ability: Cute Charm  
 Level: 13  
 Tera Type: Fairy  
 - Metronome  
 
-Hattrem @ Choice Scarf  
+Hattrem @ Assault Vest
 Ability: Magic Bounce  
 Level: 13  
 Tera Type: Psychic  
-- Metronome  
-
-Teddiursa @ Choice Band  
-Ability: Quick Feet  
-Level: 14  
-Tera Type: Normal  
 - Metronome  
 
 === TRAINER_DAPHNE ===
@@ -2571,7 +2565,7 @@ Tera Type: Poison
 - Shadow Sneak  
 - Payback  
 
-Pikachu-Hoenn @ Light Ball  
+Pikachu-Hoenn @ Magnet
 Ability: Static  
 Level: 14  
 Tera Type: Electric  
@@ -4845,8 +4839,8 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Boldore @ Eviolite  
-Ability: Sand Stream  
+Boldore @ Passho Berry
+Ability: Sand Stream
 Level: 17  
 Tera Type: Rock  
 Careful Nature  
@@ -4872,7 +4866,7 @@ Tera Type: Rock
 Adamant Nature  
 - Accelerock  
 - Thunder Fang  
-- Stomping Tantrum  
+- Bulldoze  
 - Fire Fang  
 
 Growlithe-Hisui @ Assault Vest  
@@ -4886,7 +4880,7 @@ Impish Nature
 - Rock Blast  
 
 Cranidos @ Life Orb  
-Ability: Sheer Force  
+Ability: Mold Breaker 
 Level: 17  
 Tera Type: Rock  
 Jolly Nature  
@@ -4903,7 +4897,7 @@ Naive Nature
 - Aqua Jet  
 - Aerial Ace  
 - Rock Tomb  
-- Swords Dance  
+- Thief
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -11234,19 +11228,18 @@ IVs: 0 Atk
 - Toxic  
 - Icy Wind  
 
-Aipom @ King's Rock  
-Ability: Skill Link  
+Aipom @ Loaded Dice  
+Ability: Run Away
 Level: 15  
 Tera Type: Normal  
 - Double Slap  
 - Hone Claws  
 - Triple Kick  
 
-Munchlax @ Iapapa Berry  
-Ability: Gluttony  
+Munchlax @ Berry Juice 
+Ability: Thick Fat  
 Level: 16  
 Tera Type: Normal  
-- Recycle  
 - Curse  
 - Chip Away  
 
@@ -11779,13 +11772,14 @@ Tera Type: Fire
 - Fire Fang  
 - Thunder Fang  
 
-Phantump @ Sitrus Berry  
-Ability: Harvest  
+Binacle @ Rindo Berry  
+Ability: Tough Claws  
 Level: 16  
-Tera Type: Ghost  
-- Night Shade  
-- Trailblaze  
-- Protect  
+Tera Type: Rock  
+- Aerial Ace  
+- Clamp  
+- Rock Tomb  
+- Power-Up Punch  
 
 === TRAINER_ERIC ===
 Name: ERIC
