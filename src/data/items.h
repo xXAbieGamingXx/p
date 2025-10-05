@@ -11661,7 +11661,7 @@ const struct Item gItemsInfo[] =
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
-*/
+
     [ITEM_TM52] =
     {
         .name = ITEM_NAME("TM52"),
@@ -11672,12 +11672,12 @@ const struct Item gItemsInfo[] =
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
-
-    [ITEM_TM53] =
+*/
+    [ITEM_TM_MUD_SHOT] =
     {
-        .name = ITEM_NAME("TM53"),
+        .name = ITEM_NAME("TM35"),
         .price = 3000,
-        .description = sQuestionMarksDesc, // Todo
+        .description = COMPOUND_STRING("Hurls mud at the foe\n and reduces Speed."), // Todo
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,

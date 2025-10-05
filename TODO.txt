@@ -30,3 +30,6 @@ slateport before brawly
 make fishing more likely
 add chekc ivs
 change treainer school dialogue
+add trade evos (luvdisc for grass types)
+consider changing to hisui forme basculin
+change gifts from peeko thing devon goods and wwoods

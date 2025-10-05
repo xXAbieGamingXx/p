@@ -36,6 +36,7 @@
     F(DOUBLE_TEAM) \
     F(GRASS_KNOT) \
     F(REFLECT) \
+    F(MUD_SHOT) \
     F(SHOCK_WAVE) \
     F(FLAMETHROWER) \
     F(SLUDGE_BOMB) \

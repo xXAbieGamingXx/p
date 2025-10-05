@@ -535,12 +535,11 @@ Route105_Text_JosuePostBattle:
 	.string "match than the sea.$"
 
 Route106_Text_ElliotIntro:
-	.string "Which do you prefer, fishing in the\n"
-	.string "sea or a stream?$"
+	.string "I haven't caught any fish yet.\n"
+	.string "I'll get your luck after I win!$"
 
 Route106_Text_ElliotDefeated:
-	.string "Like in deep-sea fishing, I lost\n"
-	.string "spectacularly!$"
+	.string "If only I was luckier...!$"
 
 Route106_Text_ElliotPostBattle:
 	.string "Fishing is the greatest whether it's\n"
