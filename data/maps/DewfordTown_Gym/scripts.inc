@@ -24,32 +24,32 @@ DewfordTown_Gym_EventScript_SetLightsOn::
 
 @ Brightest
 DewfordTown_Gym_EventScript_SetFlashLevel1::
-	setflashlevel 1
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_SetFlashLevel2::
-	setflashlevel 2
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_SetFlashLevel3::
-	setflashlevel 3
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_SetFlashLevel4::
-	setflashlevel 4
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_SetFlashLevel5::
-	setflashlevel 5
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_SetFlashLevel6::
-	setflashlevel 6
+	setflashlevel 0
 	return
 
 @ Darkest
 DewfordTown_Gym_EventScript_SetFlashLevel7::
-	setflashlevel 7
+	setflashlevel 0
 	return
 
 DewfordTown_Gym_EventScript_BrightenRoom::

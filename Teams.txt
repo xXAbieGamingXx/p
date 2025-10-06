@@ -386,7 +386,7 @@ Tera Type: Water
 === [gen9nationaldexag] roxanne split/roxanne; wip ===
 
 Boldore @ Eviolite  
-Ability: Sand Stream  
+Ability: Sturdy
 Level: 17  
 Tera Type: Rock  
 Careful Nature  
@@ -444,3 +444,391 @@ Naive Nature
 - Aerial Ace  
 - Rock Tomb  
 - Swords Dance  
+
+=== [gen9nationaldexag] brawly split/aqua grunts rusturf tunnel ===
+
+Morgrem @ Light Clay  
+Ability: Prankster  
+Level: 20  
+Tera Type: Dark  
+- Follow Me  
+- Light Screen  
+- Reflect  
+- Fake Out  
+
+Medicham @ Lum Berry  
+Ability: Pure Power  
+Level: 21  
+Tera Type: Fighting  
+- Force Palm  
+- Psycho Cut  
+- Fake Out  
+- Thunder Punch  
+
+Frogadier @ Wise Glasses  
+Ability: Protean  
+Level: 21  
+Tera Type: Water  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD  
+- Water Pulse  
+- Hidden Power
+- Mud Bomb  
+- Work Up  
+
+
+=== [gen9nationaldexag] brawly split/rival rustboro grass ===
+
+Combusken @ Eviolite  
+Ability: Speed Boost  
+Level: 22  
+Tera Type: Fire  
+IVs: 0 Atk / 30 SpA  
+- Vacuum Wave  
+- Incinerate  
+- Hidden Power
+- Work Up  
+
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 21  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
+
+=== [gen9nationaldexag] brawly split/rival rustboro water ===
+
+Grovyle @ Razor Fang  
+Ability: Unburden  
+Level: 22  
+Tera Type: Grass  
+- Fling  
+- Acrobatics  
+- Giga Drain  
+- Hidden Power
+
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 22  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
+
+=== [gen9nationaldexag] brawly split/rival rustboro fire ===
+
+Marshtomp @ Bright Powder  
+Ability: Torrent  
+Level: 22  
+Tera Type: Water  
+- Rock Slide  
+- Dive  
+- Ice Punch  
+- Stealth Rock  
+
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
+
+=== [gen9nationaldexag] brawly split/fisherman elliot ===
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 22  
+Tera Type: Ground  
+- Stomping Tantrum  
+- Ice Fang  
+- Thunder Fang  
+- Slack Off  
+
+Palossand @ Assault Vest  
+Ability: Sand Veil  
+Level: 22  
+Tera Type: Ghost  
+IVs: 0 Atk / 30 Def  
+- Ominous Wind  
+- Giga Drain  
+- Scorching Sands  
+- Hidden Power
+
+
+=== [gen9nationaldexag] brawly split/fisherman ned ===
+
+Pelipper @ Wacan Berry  
+Ability: Drizzle  
+Level: 22  
+Tera Type: Water  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Brine  
+- Hidden Power
+- Air Cutter  
+
+Bruxish @ Metronome  
+Ability: Strong Jaw  
+Level: 22  
+Tera Type: Water  
+- Crunch  
+- Aqua Jet  
+- Flip Turn  
+- Poison Fang  
+
+Qwilfish-Hisui @ Air Balloon  
+Ability: Swift Swim  
+Level: 22  
+Tera Type: Dark  
+- Lash Out  
+- Self-Destruct  
+- Barb Barrage  
+- Aqua Jet  
+
+
+=== [gen9nationaldexag] brawly split/sailor huey ===
+
+Sealeo @ Charti Berry  
+Ability: Thick Fat  
+Level: 22  
+Tera Type: Ice  
+IVs: 0 Atk  
+- Aurora Beam  
+- Brine  
+- Hidden Power
+- Signal Beam  
+
+Eelektrik @ Muscle Band  
+Ability: Levitate  
+Level: 22  
+Tera Type: Electric  
+- Spark  
+- Super Fang  
+- Thunder Wave  
+- Headbutt  
+
+
+=== [gen9nationaldexag] brawly split/tuber haley ===
+
+Squawkabilly-Blue @ Sitrus Berry  
+Ability: Intimidate  
+Level: 22  
+Tera Type: Normal  
+- Quick Attack  
+- Aerial Ace  
+- Facade  
+- Parting Shot  
+
+Corvisquire @ Shell Bell  
+Ability: Unnerve  
+Level: 23  
+Tera Type: Flying  
+- U-turn  
+- Roost  
+- Dual Wingbeat  
+- Smart Strike  
+
+Wartortle @ Rocky Helmet  
+Ability: Torrent  
+Level: 23  
+Tera Type: Water  
+IVs: 0 Atk  
+- Brine  
+- Icy Wind  
+- Yawn  
+- Mud Shot  
+
+
+=== [gen9nationaldexag] brawly split/saloir edmond ===
+
+Azumarill @ Lagging Tail  
+Ability: Huge Power  
+Level: 23  
+Tera Type: Water  
+- Aqua Jet  
+- Spirit Break  
+- Dive  
+- Bulldoze  
+
+
+=== [gen9nationaldexag] brawly split/tuber ricky ===
+
+Vigoroth @ Lum Berry  
+Ability: Vital Spirit  
+Level: 23  
+Tera Type: Normal  
+- Low Kick  
+- Yawn  
+- Chip Away  
+- Aerial Ace  
+
+Dragonair @ Yache Berry  
+Ability: Shed Skin  
+Level: 23  
+Tera Type: Dragon  
+- Dragon Rage  
+- Aqua Jet  
+- Breaking Swipe  
+
+
+=== [gen9nationaldexag] brawly split/tuber lola (1 2) and tuber chandler (3 4) ===
+
+Togetic @ Covert Cloak  
+Ability: Serene Grace  
+Level: 23  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Helping Hand  
+- Follow Me  
+- Air Cutter  
+- Draining Kiss  
+
+Rotom @ Wiki Berry  
+Ability: Levitate  
+Level: 23  
+Tera Type: Electric  
+IVs: 0 Atk  
+- Thunder Wave  
+- Volt Switch  
+- Ominous Wind  
+- Hidden Power
+
+Cramorant @ Wacan Berry  
+Ability: Gulp Missile  
+Level: 23  
+Tera Type: Flying  
+- Dive  
+- Aqua Cutter  
+- Steel Wing  
+- Aerial Ace  
+
+Persian @ Silk Scarf  
+Ability: Technician  
+Level: 23  
+Tera Type: Normal  
+- Fake Out  
+- Knock Off  
+- Aerial Ace  
+- U-turn  
+
+
+=== [gen9nationaldexag] brawly split/aqua grunt 1 slateport museum ===
+
+Floette @ Big Root  
+Ability: Flower Veil  
+Level: 23  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Draining Kiss  
+- Magical Leaf  
+- Hidden Power
+- Wish  
+
+Farfetch’d @ Stick  
+Ability: Keen Eye  
+Level: 23  
+Tera Type: Normal  
+- First Impression  
+- Aerial Ace  
+- U-turn  
+- Quick Attack  
+
+Gurdurr @ Berry Juice  
+Ability: Iron Fist  
+Level: 23  
+Tera Type: Fighting  
+- Power-Up Punch  
+- Ice Punch  
+- Bulk Up  
+- Retaliate  
+
+
+=== [gen9nationaldexag] brawly split/aqua grunt 2 slateport museum ===
+
+Swoobat @ Focus Sash  
+Ability: Simple  
+Level: 23  
+Tera Type: Psychic  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Nasty Plot  
+- Air Slash  
+- Stored Power  
+- Hidden Power
+
+Dugtrio @ Soft Sand  
+Ability: Arena Trap  
+Level: 23  
+Tera Type: Ground  
+- Stomping Tantrum  
+- Pursuit  
+- Rock Slide  
+
+Dartrix @ Yache Berry  
+Ability: Overgrow  
+Level: 23  
+Tera Type: Grass  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Air Slash  
+- Giga Drain  
+- Hidden Power  
+- Ominous Wind  

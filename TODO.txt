@@ -4,32 +4,17 @@ get rid of knock off from almost all learnsets
 change existing items and add new ones in new areas
 add mega stones and tms and new held items
 remove weather moves from learnsets
-add other normal trainers
-make gym trainers required
 remove hidden itemss
 add a couple patches or capsules?
-add encounters in cities or something
-mkae pokemon not spawn with items
-up friendship
 check early mons relearnset (combusken learns flamethrower)
-fix grass knot guy
-fix rustboro fishing thing
 fix onix screen glitch
 purge wally
-remove all battle items that aren t on rich people
-change metronome switch out ai (non damaging move counts as not being able to damage so switches out)
 block off roxannes gym until done with trainers
 fix doublew battle sign
-fix hiker and youngster with phantump
-fix shadows in rustboro gym
-fix rustboro gym collision
-force player to get to the tunnel before fighting roxanne?
-perma flash
-skip the devon corp bs
-slateport before brawly
-make fishing more likely
 add chekc ivs
 change treainer school dialogue
 add trade evos (luvdisc for grass types)
-consider changing to hisui forme basculin
-change gifts from peeko thing devon goods and wwoods
+force fight all 116 trainers before roxanne
+make gym leaders give optional items like hms
+add early repels
+make ai not cheat

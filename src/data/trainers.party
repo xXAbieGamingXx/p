@@ -18,7 +18,6 @@ Optional (but still recommended) fields for trainers:
     - Class (if not specified, PkMn Trainer will be used)
     - Gender (Male/Female, affects random gender weights of party if not specified)
     - Music
-    - Items (Some Item / Another Item / Third Item)
             (Can also be specified with ITEM_SOME_ITEM)
     - Battle Type (Singles / Doubles, defaults to Singles)
     - AI (Ai Flag / Another Flag / Third Flag / ...
@@ -263,7 +262,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -341,12 +339,36 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
 
-Poochyena
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Morgrem @ Light Clay  
+Ability: Prankster  
+Level: 20  
+Tera Type: Dark  
+- Follow Me  
+- Light Screen  
+- Reflect  
+- Fake Out  
+
+Medicham @ Lum Berry  
+Ability: Pure Power  
+Level: 21  
+Tera Type: Fighting  
+- Force Palm  
+- Psycho Cut  
+- Fake Out  
+- Thunder Punch  
+
+Frogadier @ Wise Glasses  
+Ability: Protean  
+Level: 21  
+Tera Type: Water  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD  
+- Water Pulse  
+- Hidden Power
+- Mud Bomb  
+- Work Up  
 
 === TRAINER_GRUNT_WEATHER_INST_1 ===
 Name: GRUNT
@@ -412,9 +434,33 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Carvanha
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Floette @ Big Root  
+Ability: Flower Veil  
+Level: 23  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Draining Kiss  
+- Magical Leaf  
+- Hidden Power
+- Wish  
+
+Farfetch’d @ Stick  
+Ability: Keen Eye  
+Level: 23  
+Tera Type: Normal  
+- First Impression  
+- Aerial Ace  
+- U-turn  
+- Quick Attack  
+
+Gurdurr @ Berry Juice  
+Ability: Iron Fist  
+Level: 23  
+Tera Type: Fighting  
+- Power-Up Punch  
+- Ice Punch  
+- Bulk Up  
+- Retaliate  
 
 === TRAINER_GRUNT_MUSEUM_2 ===
 Name: GRUNT
@@ -425,13 +471,33 @@ Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Zubat
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Swoobat @ Focus Sash  
+Ability: Simple  
+Level: 23  
+Tera Type: Psychic  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Nasty Plot  
+- Air Slash  
+- Stored Power  
+- Hidden Power
 
-Carvanha
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dugtrio @ Soft Sand  
+Ability: Arena Trap  
+Level: 23  
+Tera Type: Ground  
+- Stomping Tantrum  
+- Pursuit  
+- Rock Slide  
+
+Dartrix @ Yache Berry  
+Ability: Overgrow  
+Level: 23  
+Tera Type: Grass  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Air Slash  
+- Giga Drain  
+- Hidden Power  
+- Ominous Wind  
 
 === TRAINER_GRUNT_SPACE_CENTER_1 ===
 Name: GRUNT
@@ -551,7 +617,6 @@ Class: Aqua Admin
 Pic: Aqua Admin M
 Gender: Male
 Music: Aqua
-Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -616,7 +681,6 @@ Class: Aqua Leader
 Pic: Aqua Leader Archie
 Gender: Male
 Music: Aqua
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -689,7 +753,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1063,13 +1126,25 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Azurill
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Togetic @ Covert Cloak  
+Ability: Serene Grace  
+Level: 23  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Helping Hand  
+- Follow Me  
+- Air Cutter  
+- Draining Kiss  
 
-Azurill
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Rotom @ Wiki Berry  
+Ability: Levitate  
+Level: 23  
+Tera Type: Electric  
+IVs: 0 Atk  
+- Thunder Wave  
+- Volt Switch  
+- Ominous Wind  
+- Hidden Power
 
 === TRAINER_AUSTINA ===
 Name: AUSTINA
@@ -1174,13 +1249,22 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon
-Level: 13
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
-- Sand Attack
-- Headbutt
-- Tail Whip
-- Surf
+Vigoroth @ Lum Berry  
+Ability: Vital Spirit  
+Level: 23  
+Tera Type: Normal  
+- Low Kick  
+- Yawn  
+- Chip Away  
+- Aerial Ace  
+
+Dragonair @ Yache Berry  
+Ability: Shed Skin  
+Level: 23  
+Tera Type: Dragon  
+- Dragon Rage  
+- Aqua Jet  
+- Breaking Swipe  
 
 === TRAINER_SIMON ===
 Name: SIMON
@@ -1286,7 +1370,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1303,7 +1386,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1320,7 +1402,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1337,7 +1418,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1353,7 +1433,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1403,7 +1482,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1425,7 +1503,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1443,7 +1520,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1465,7 +1541,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1483,7 +1558,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1501,7 +1575,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1523,7 +1596,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1549,7 +1621,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1571,7 +1642,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1593,7 +1663,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1615,7 +1684,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1637,7 +1705,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1659,7 +1726,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1677,7 +1743,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1693,7 +1758,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1710,7 +1774,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -1726,7 +1789,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -1760,7 +1822,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -1778,7 +1839,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1800,7 +1860,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1814,7 +1873,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1828,7 +1886,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1842,7 +1899,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1864,7 +1920,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1882,7 +1937,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1904,7 +1958,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1926,7 +1979,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -1948,7 +2000,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -1970,7 +2021,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2141,7 +2191,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2163,7 +2212,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2210,7 +2258,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2226,7 +2273,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2240,7 +2286,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2254,7 +2299,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2268,7 +2312,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2282,7 +2325,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2296,7 +2338,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2553,7 +2594,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2596,7 +2636,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2610,7 +2649,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2624,7 +2662,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2638,7 +2675,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -2652,7 +2688,6 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -4632,7 +4667,6 @@ Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer / Force Setup First Turn
 Mugshot: Purple
@@ -4683,7 +4717,6 @@ Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Green
@@ -4734,7 +4767,6 @@ Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Female
 Music: Elite Four
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Pink
@@ -4785,7 +4817,6 @@ Class: Elite Four
 Pic: Elite Four Drake
 Gender: Male
 Music: Elite Four
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Blue
@@ -4905,7 +4936,6 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4939,7 +4969,6 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4981,7 +5010,6 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -5023,7 +5051,6 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -5065,7 +5092,6 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Risky
 
@@ -5115,7 +5141,6 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -5157,7 +5182,6 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -6163,7 +6187,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -6189,7 +6212,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -6382,7 +6404,6 @@ Class: Champion
 Pic: Champion Wallace
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Yellow
@@ -6507,17 +6528,24 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Magikarp
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 22  
+Tera Type: Ground  
+- Stomping Tantrum  
+- Ice Fang  
+- Thunder Fang  
+- Slack Off  
 
-Tentacool
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Magikarp
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Palossand @ Assault Vest  
+Ability: Sand Veil  
+Level: 22  
+Tera Type: Ghost  
+IVs: 0 Atk / 30 Def  
+- Ominous Wind  
+- Giga Drain  
+- Scorching Sands  
+- Hidden Power
 
 === TRAINER_NED ===
 Name: NED
@@ -6528,9 +6556,32 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
-Level: 11
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Pelipper @ Wacan Berry  
+Ability: Drizzle  
+Level: 22  
+Tera Type: Water  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Brine  
+- Hidden Power
+- Air Cutter  
+
+Bruxish @ Metronome  
+Ability: Strong Jaw  
+Level: 22  
+Tera Type: Water  
+- Crunch  
+- Aqua Jet  
+- Flip Turn  
+- Poison Fang  
+
+Qwilfish-Hisui @ Air Balloon  
+Ability: Swift Swim  
+Level: 22  
+Tera Type: Dark  
+- Lash Out  
+- Self-Destruct  
+- Barb Barrage  
+- Aqua Jet  
 
 === TRAINER_DALE ===
 Name: DALE
@@ -7746,7 +7797,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 
 Claydol
@@ -9091,13 +9141,24 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Sealeo @ Charti Berry  
+Ability: Thick Fat  
+Level: 22  
+Tera Type: Ice  
+IVs: 0 Atk  
+- Aurora Beam  
+- Brine  
+- Hidden Power
+- Signal Beam  
 
-Machop
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Eelektrik @ Muscle Band  
+Ability: Levitate  
+Level: 22  
+Tera Type: Electric  
+- Spark  
+- Super Fang  
+- Thunder Wave  
+- Headbutt  
 
 === TRAINER_EDMOND ===
 Name: EDMOND
@@ -9108,9 +9169,14 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Azumarill @ Lagging Tail  
+Ability: Huge Power  
+Level: 23  
+Tera Type: Water  
+- Aqua Jet  
+- Spirit Break  
+- Dive  
+- Bulldoze  
 
 === TRAINER_ERNEST_1 ===
 Name: ERNEST
@@ -9333,7 +9399,6 @@ Class: Cooltrainer 2
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -9415,7 +9480,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -9603,7 +9667,6 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10219,7 +10282,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10382,7 +10444,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10396,7 +10457,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10418,7 +10478,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10432,7 +10491,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10446,7 +10504,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10460,7 +10517,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10474,7 +10530,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10492,7 +10547,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10510,7 +10564,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10532,7 +10585,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10550,7 +10602,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10568,7 +10619,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10586,7 +10636,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -10604,7 +10653,6 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -10786,7 +10834,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -10996,15 +11043,45 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Combusken @ Eviolite  
+Ability: Speed Boost  
+Level: 22  
+Tera Type: Fire  
+IVs: 0 Atk / 30 SpA  
+- Vacuum Wave  
+- Incinerate  
+- Hidden Power
+- Work Up  
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 21  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
 Name: BRENDAN
@@ -11013,15 +11090,44 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Grovyle @ Razor Fang  
+Ability: Unburden  
+Level: 22  
+Tera Type: Grass  
+- Fling  
+- Acrobatics  
+- Giga Drain  
+- Hidden Power
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 22  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
 
 === TRAINER_PAXTON ===
 Name: PAXTON
@@ -11101,7 +11207,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
@@ -11120,15 +11225,45 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Slugma
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Marshtomp @ Bright Powder  
+Ability: Torrent  
+Level: 22  
+Tera Type: Water  
+- Rock Slide  
+- Dive  
+- Ice Punch  
+- Stealth Rock  
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+IVs: 0 Atk
+- Spark
+- Defense Curl  
+- Volt Switch  
+- Metal Claw
+
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
 Name: MAY
@@ -11137,15 +11272,43 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer / Try To Faint / Force Setup First Turn
+AI: Basic Trainer / Ace Pokemon
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Grovyle @ Razor Fang  
+Ability: Unburden  
+Level: 22  
+Tera Type: Grass  
+- Fling  
+- Acrobatics  
+- Giga Drain  
+- Hidden Power
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 22  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
 
 === TRAINER_MAXIE_MAGMA_HIDEOUT ===
 Name: MAXIE
@@ -11153,7 +11316,6 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -11175,7 +11337,6 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -12093,7 +12254,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -12279,7 +12439,6 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -12329,7 +12488,6 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -12379,7 +12537,6 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -12429,7 +12586,6 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -12688,7 +12844,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -12706,7 +12861,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -13183,7 +13337,6 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -13217,9 +13370,33 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Marill
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Squawkabilly-Blue @ Sitrus Berry  
+Ability: Intimidate  
+Level: 22  
+Tera Type: Normal  
+- Quick Attack  
+- Aerial Ace  
+- Facade  
+- Parting Shot  
+
+Corvisquire @ Shell Bell  
+Ability: Unnerve  
+Level: 23  
+Tera Type: Flying  
+- U-turn  
+- Roost  
+- Dual Wingbeat  
+- Smart Strike  
+
+Wartortle @ Rocky Helmet  
+Ability: Torrent  
+Level: 23  
+Tera Type: Water  
+IVs: 0 Atk  
+- Brine  
+- Icy Wind  
+- Yawn  
+- Mud Shot  
 
 === TRAINER_CHANDLER ===
 Name: CHANDLER
@@ -13230,13 +13407,23 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Tentacool
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cramorant @ Wacan Berry  
+Ability: Gulp Missile  
+Level: 23  
+Tera Type: Flying  
+- Dive  
+- Aqua Cutter  
+- Steel Wing  
+- Aerial Ace  
 
-Tentacool
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Persian @ Silk Scarf  
+Ability: Technician  
+Level: 23  
+Tera Type: Normal  
+- Fake Out  
+- Knock Off  
+- Aerial Ace  
+- U-turn  
 
 === TRAINER_KALEB ===
 Name: KALEB
@@ -13742,7 +13929,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -13875,7 +14061,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -14174,7 +14359,6 @@ Class: Expert
 Pic: Expert F
 Gender: Female
 Music: Intense
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -14235,7 +14419,6 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -14352,7 +14535,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -14371,15 +14553,45 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Combusken @ Eviolite  
+Ability: Speed Boost  
+Level: 22  
+Tera Type: Fire  
+IVs: 0 Atk / 30 SpA  
+- Vacuum Wave  
+- Incinerate  
+- Hidden Power
+- Work Up  
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Qwilfish @ Focus Band  
+Ability: Intimidate  
+Level: 21  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Explosion  
+- Poison Tail  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
 Name: MAY
@@ -14388,15 +14600,44 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Torkoal
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Marshtomp @ Bright Powder  
+Ability: Torrent  
+Level: 22  
+Tera Type: Water  
+- Rock Slide  
+- Dive  
+- Ice Punch  
+- Stealth Rock  
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin @ Iapapa Berry  
+Ability: Gluttony  
+Level: 22  
+Tera Type: Grass  
+- Giga Drain  
+- Dragon Breath  
+- Flame Wheel  
+- Recycle  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 21  
+Tera Type: Fire  
+- Flame Charge  
+- Stomp  
+- Hypnosis  
+- Low Kick  
+
+Togedemaru @ Rocky Helmet  
+Ability: Iron Barbs  
+Level: 21  
+Tera Type: Electric  
+- Zing Zap  
+- Defense Curl  
+- Volt Switch  
+- Iron Head  
+
 
 === TRAINER_ROXANNE_2 ===
 Name: ROXANNE
@@ -14404,7 +14645,6 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14446,7 +14686,6 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14496,7 +14735,6 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14546,7 +14784,6 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14604,7 +14841,6 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14646,7 +14882,6 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14688,7 +14923,6 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14738,7 +14972,6 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14796,7 +15029,6 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14838,7 +15070,6 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14888,7 +15119,6 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14938,7 +15168,6 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -14996,7 +15225,6 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15038,7 +15266,6 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15088,7 +15315,6 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15146,7 +15372,6 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15204,7 +15429,6 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15246,7 +15470,6 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15296,7 +15519,6 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15346,7 +15568,6 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15404,7 +15625,6 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer / Risky
 
@@ -15454,7 +15674,6 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer / Risky
 
@@ -15512,7 +15731,6 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer / Risky
 
@@ -15570,7 +15788,6 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer / Risky
 
@@ -15628,7 +15845,6 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15678,7 +15894,6 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15736,7 +15951,6 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15794,7 +16008,6 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15852,7 +16065,6 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15902,7 +16114,6 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -15952,7 +16163,6 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -16010,7 +16220,6 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -16104,7 +16313,6 @@ Class: Rival
 Pic: Steven
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
@@ -16577,7 +16785,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -16595,7 +16802,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -16617,7 +16823,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -16639,7 +16844,6 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 

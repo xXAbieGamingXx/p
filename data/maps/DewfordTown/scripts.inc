@@ -628,9 +628,8 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
-	.string "If something gets trendy here,\l"
-	.string "everyone picks up on it right away.$"
+	.string "If only I could get to the\n"
+	.string "Slateport Museum...$"
 
 DewfordTown_Text_TownSign:
 	.string "DEWFORD TOWN\n"
